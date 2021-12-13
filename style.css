@@ -1,0 +1,14 @@
+.dsm-index {
+    max-height: 215px;
+    margin: 19.5px 20px;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+}
+
+#DSMs {
+    margin-top: -12px;
+    width: 652px;
+}
