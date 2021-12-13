@@ -83,6 +83,13 @@ li {
     margin-left: 0px;
 }
 
+.header.dsmg {
+    font-size: 140px;
+    margin-bottom: 0px;
+    margin-top: 30px;
+    margin-left: 0px;
+}
+
 .overline {
     background-color: rgb(185, 185, 185);
     margin-top: 40px;
