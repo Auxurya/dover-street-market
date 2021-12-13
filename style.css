@@ -22,6 +22,10 @@ footer,
     justify-content: center;
 }
 
+.OVO:hover {
+    color:white;
+}
+
 #DSMs {
     margin-top: -12px;
     width: 653px;
@@ -56,6 +60,7 @@ a:hover {
 }
 
 .subtext,
+.subtext-ovo,
 .subtext-2021 {
     font-family: serif;
     font-weight: 100;
@@ -68,9 +73,15 @@ a:hover {
     margin-top: -20px;
 }
 
-.subtext-2021 {
+.subtext-2021,
+.subtext-ovo {
     font-size: 33px;
     margin-top: -25px;
+}
+
+.subtext-ovo {
+    margin-top: -10px;
+    color: white;
 }
 
 li {
@@ -145,6 +156,13 @@ li {
 
 .header.dslm {
     font-size: 101px;
+    margin-bottom: 0px;
+    margin-top: 44px;
+    margin-left: 0px;  
+}
+
+.header.lsm {
+    font-size: 66px;
     margin-bottom: 0px;
     margin-top: 44px;
     margin-left: 0px;  
