@@ -111,6 +111,13 @@ li {
     margin-left: 0px;  
 }
 
+.header.dsmla {
+    font-size: 83px;
+    margin-bottom: 5px;
+    margin-top: 95px;
+    margin-left: 0px;  
+}
+
 .overline {
     background-color: rgb(185, 185, 185);
     margin-top: 40px;
