@@ -55,13 +55,22 @@ a:hover {
     color: black;
 }
 
-.subtext {
+.subtext,
+.subtext-2021 {
     font-family: serif;
     font-weight: 100;
-    font-size: 45px;
     text-align: center;
-    margin-top: -20px;
     margin-bottom: 20px;
+}
+
+.subtext {
+    font-size: 45px;
+    margin-top: -20px;
+}
+
+.subtext-2021 {
+    font-size: 33px;
+    margin-top: -25px;
 }
 
 li {
@@ -131,6 +140,13 @@ li {
     font-size: 85px;
     margin-bottom: 5px;
     margin-top: 48px;
+    margin-left: 0px;  
+}
+
+.header.dslm {
+    font-size: 101px;
+    margin-bottom: 0px;
+    margin-top: 44px;
     margin-left: 0px;  
 }
 
