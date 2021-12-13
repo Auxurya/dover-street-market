@@ -55,6 +55,15 @@ a:hover {
     color: black;
 }
 
+.subtext {
+    font-family: serif;
+    font-weight: 100;
+    font-size: 45px;
+    text-align: center;
+    margin-top: -20px;
+    margin-bottom: 20px;
+}
+
 li {
     list-style-type: none;
 }
@@ -115,6 +124,13 @@ li {
     font-size: 83px;
     margin-bottom: 5px;
     margin-top: 95px;
+    margin-left: 0px;  
+}
+
+.header.dspm {
+    font-size: 85px;
+    margin-bottom: 5px;
+    margin-top: 48px;
     margin-left: 0px;  
 }
 
